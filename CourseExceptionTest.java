@@ -81,5 +81,6 @@ public class CourseExceptionTest {
                 break;
             }
         }
+        System.out.println("I am here bro");
     }
 }
